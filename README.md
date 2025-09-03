@@ -1,1 +1,7 @@
-# Small_ML_Projects
+## Small_ML_Projects
+
+Some of the projects that I have done while doing the Udemy Course Machine Learning Bootcamp from Zero to Mastery
+
+1. ***Heart Disease Classification*** is a simple Classification project where I used the built-in classification algorithms like KNN, Logistic Regression, and Random Forest from scikit-learn
+
+2.  ***Bulldozer-Price_prediction*** is a Regression Project where I used Random Forest Regressor (from scikit-learn) and did Hyperparameter tuning
